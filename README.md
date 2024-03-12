@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mstein166
-- 👀 I’m interested in NFTs and DAOs
-- 🌱 I’m currently learning how to create a DAO on buildspace
-- 💞️ I’m looking to collaborate on web3 technology projects
+- 👀 I’m interested in building everyday useful tools
+- 🌱 I’m currently learning....
 - 📫 How to reach me mstein166@gmail.com
 
 <!---
