@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mstein166
 - 👀 I’m interested in building everyday useful tools
-- 🌱 I’m currently learning....
+- 🌱 I’m currently working on React apps (a word game, an endorsement database)
 - 📫 How to reach me mstein166@gmail.com
 
 <!---
